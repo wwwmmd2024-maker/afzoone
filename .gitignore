@@ -1,0 +1,11 @@
+.tools/
+node_modules/
+.venv/
+__pycache__/
+*.log
+.env
+license-data/
+*.pem
+!tests/fixtures/*.public.pem
+/vendor-build/
+.DS_Store
